@@ -6184,7 +6184,7 @@ var myIcon = new L.Icon({
 
 function createFeatures (feature,layer){
     layer.bindPopup("<h3>" + feature.properties.Place +
-     "</h3><br>" + feature.properties.Address + "</br>" + "<br>" +  feature.properties.Service + "</br>" + "<br>" + feature.properties.Age + "</br>"+ "<br>" +
+     "</h3><br>" + feature.properties.Address + "</br>" + "<br>" + "Service:" + feature.properties.Service + "</br>" + "<br>" + feature.properties.Age + "</br>"+ "<br>" +
       feature.properties.Needs_to_Register + "</br>" + "<br>" + feature.properties.Income_based + "</br>" +
       "<br>" + feature.properties.open_date + "</br" + "<br>" + feature.properties.hours + "</br>");
     layer.setIcon(myIcon);
