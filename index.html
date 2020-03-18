@@ -6,6 +6,7 @@
      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
    crossorigin=""/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
    crossorigin=""></script>
@@ -33,6 +34,24 @@ html, body, #map {
   color: white;
   font-size: 15px;
 }
+/*Footer style */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}	  
   </style>
 
 </head>
@@ -6219,7 +6238,13 @@ L.geoJson(geoJsonFeature, {
 
 </script>
 
-<!-- Json file -->
+<!-- footer -->
+<footer>
+<p>Data Science Consultants, LLC </p>
+<a href="https://www.facebook.com/DataScienceConsultants/" class="fa fa-facebook">Like Us!</a>	
+<p>Contact information: <a href="data.science.llc@gmail.com">Data.Science.LLC@gmail.com</a>.</p>
+</footer>
+
 
 </body>
 
