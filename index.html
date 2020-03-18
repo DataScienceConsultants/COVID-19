@@ -3,21 +3,18 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+    
     <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <style>
-    body {
-  padding: 0;
-  margin: 0;
+ body {
+    padding: 0;
+    margin: 0;
 }
 html, body, #map {
-  height: 100%;
-  width: 100vw;
+    height: 100%;
+    width: 100vw;
 }
-
-#mapid { height: 180px; }
-
   </style>
 
 </head>
@@ -27,9 +24,11 @@ html, body, #map {
 <script>
 var map = L.map('map').fitWorld();
 
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
    maxZoom: 18,
+   tileSize: 512,
+   zoomOffset: -1
    id: 'mapbox.streets',
    accessToken: 'pk.eyJ1IjoidGhlYWNyb2NrZXR0IiwiYSI6ImNrMG42ZmI5ZzFlaXMzaXFvcnZ1MHp0MzcifQ.yGr6uZCm9ZVh3PMy_c1_kA'
 }).addTo(map);
@@ -6167,7 +6166,7 @@ var geoJsonFeature={
     }
   }
 ]
-};
+}
 
 //insert data here
 
