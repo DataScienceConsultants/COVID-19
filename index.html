@@ -4124,7 +4124,7 @@ var geoJsonFeature={
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 33.36522154,33.36522154 ]
+       "coordinates":  [ -112.16047,33.36522154 ]
     },
     "properties": {
     "type":"school",
@@ -6186,7 +6186,7 @@ function createFeatures (feature,layer){
     layer.bindPopup("<h3>" + feature.properties.Place +
      "</h3><br>" + feature.properties.Address + "</br>" + "<br>" + "Service: " + feature.properties.Service + "</br>" + "<br>" + "Age: " + feature.properties.Age + "</br>"+ "<br>" +
       + " Needs to Register? " + feature.properties.NeedstoRegister + "</br>" + "<br>" + "Income based? " + feature.properties.Incomebased + "</br>" +
-      "<br>" + "Open: " + feature.properties.opendate + "</br" + "<br>" + "Hours: " + feature.properties.hours + "</br>");
+      "<br>" + "Open: " + feature.properties.opendate + "</br" + "<br>" + "  Hours: " + feature.properties.hours + "</br>");
     layer.setIcon(myIcon);
 };
 
