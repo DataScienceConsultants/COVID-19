@@ -3,7 +3,12 @@
 <html>
 
 <head>
-    
+     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+	<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <style>
@@ -29,7 +34,7 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
    maxZoom: 18,
    tileSize: 512,
    zoomOffset: -1
-   id: 'streets-v11',
+   id: 'mapbox/streets-v11',
    accessToken: 'pk.eyJ1IjoidGhlYWNyb2NrZXR0IiwiYSI6ImNrMG42ZmI5ZzFlaXMzaXFvcnZ1MHp0MzcifQ.yGr6uZCm9ZVh3PMy_c1_kA'
 }).addTo(map);
 
