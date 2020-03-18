@@ -1,4 +1,4 @@
-type,district,Place ,Address,city,state,Service,Age,Needs to Register?,Income based?,open date,hours,Phone,latitude,longitude
+type,district,Place ,Address,city,state,Service,Age,NeedstoRegister,Incomebased,opendate,hours,Phone,latitude,longitude
 school,Sunnyside,Craycroft Elementary,5455 East Littletown Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,7:30 am-10 am,,32.1345295,-110.87565
 school,Sunnyside,Drexel Elementary,801 East Drexel,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,7:30 am-10 am,,32.1493661,-110.95957
 school,Sunnyside,Elvira Elementary,250 West Elvira Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,7:30 am-10 am,,32.1273787,-110.97237
