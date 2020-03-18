@@ -6186,7 +6186,7 @@ function createFeatures (feature,layer){
     layer.bindPopup("<h3>" + feature.properties.Place +
      "</h3><br>" + feature.properties.Address + "</br>" + "<br>" + "Service: " + feature.properties.Service + "</br>" + "<br>" + "Age: " + feature.properties.Age + "</br>"+ "<br>" +
       + " Needs to Register? " + feature.properties.Needs_to_Register? + "</br>" + "<br>" + "Income based? " + feature.properties.Income_based? + "</br>" +
-      "<br>" + "Open: " + feature.properties.opendate + "</br" + "<br>" + "Hours: " + feature.properties.hours + "</br>");
+      "<br>" + "Open: " + feature.properties.open_date + "</br" + "<br>" + "Hours: " + feature.properties.hours + "</br>");
     layer.setIcon(myIcon);
 };
 
