@@ -6181,7 +6181,8 @@ var myIcon = new L.Icon({
 });
 
 // ADD THE OTHER FEAUTURES//////////////////////////////////////////////////////////
-//function createFeatures (feature,layer){
+
+function createFeatures (feature,layer){
     layer.bindPopup("<h3>" + feature.properties.place +
      "</h3><br>" + feature.properties.address + "</br>" + "<br>" +  feature.properties.service + "</br>" + "<br>" + feature.properties.age + "</br>"+ "<br>" +
       feature.properties.needs_to_register + "</br>" + "<br>" + feature.properties.income_based + "</br>" +
