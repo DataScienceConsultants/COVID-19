@@ -20,11 +20,29 @@ html, body, #map {
     height: 100%;
     width: 100vw;
 }
+	  body {
+  font-family: Times New Roman;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 20px;
+  text-align: center;
+  background: #000000;
+  color: white;
+  font-size: 15px;
+}
   </style>
 
 </head>
 
 <body>
+	<div class="header">
+  <h1>Free meals around you</h1>
+  <p>COVID-19 Mutual Aid Phoenix Metro, Data Science Consultants, LLC</p>
+</div>
+	
   <div id="map"></div>
 <script>
 var map = L.map('map').fitWorld();
