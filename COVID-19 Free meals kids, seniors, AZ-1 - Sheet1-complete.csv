@@ -1,0 +1,278 @@
+type,district,Place ,Address,city,state,Service,Age,Needs to Register?,Income based?,open date,hours,Phone,latitude,longitude
+school,Sunnyside,Craycroft Elementary,5455 East Littletown Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,7:30 am-10 am,,32.1345295,-110.87565
+school,Sunnyside,Drexel Elementary,801 East Drexel,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,7:30 am-10 am,,32.1493661,-110.95957
+school,Sunnyside,Elvira Elementary,250 West Elvira Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,7:30 am-10 am,,32.1273787,-110.97237
+school,Sunnyside,Los Amigos Elementary,2200 East Drexel Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,7:30 am-10 am,,32.1483816,-110.93855
+school,Sunnyside,Mission Manor Elementary School,600 West Santa Rosa Street,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,7:30 am-10 am,,32.1419489,-110.9787
+school,Amphiteather,Amphitheater High,"125 West Yavapai Road, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.2709152,-110.97489
+school,Amphiteather,LM Prince Elementary School,"315 East Prince Road, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.2724751,-110.96794
+school,Amphiteather,Canyon Del Oro High,"25 West Calle Concordia, Oro Valley",Oro Valley,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.4225881,-110.9767
+school,Amphiteather,Coronado K-8 School,"3401 East Wilds Road, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.4761392,-110.92103
+school,Amphiteather,Marion Donaldson Elementary,"2040 West Omar Drive, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.3337798,-111.01138
+school,Amphiteather,Frances Owen Holaway Elementary,"3500 North Cherry Avenue, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.2708636,-110.94784
+school,Amphiteather,Helen Keeling Elementary,"2837 North Los Altos, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.1569015,-110.87751
+school,Amphiteather,La Cima Middle,"5600 North La Canada Drive, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.1569015,-110.87751
+school,Amphiteather,Mesa Verde Elementary,"1661 W. Sage Street, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.357962,-111.00321
+school,Amphiteather,EC Nash School,"515 West Kelso Street, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.2549296,-110.98078
+school,Amphiteather,Rio Vista Elementary,"1351 East Limberlost Drive, Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.2839452,-110.95166
+school,Amphiteather,Lulu Walker School,"1750 West Roller Coaster Rd., Tucson",Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10 am- 1pm,,32.3021136,-111.00252
+mobile bus,Marana,Marana Cares Mobile,"Sandario Road and Anthony Road, near the Marana Congregation of Jehovah’s Witness Church",Marana,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,11 a.m. to noon,,32.4357077,-111.15359
+mobile bus,Marana,Marana Cares Mobile,"6560 W. El Tiro Road, at the Marana Domestic Water Improvement District",Marana,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,12:30-1:30 p.m.,,32.4357077,-111.15359
+community,Nogales,AJ Mitchell Elementary,"855 North Bautista Street, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8-8:20 a.m.; Lunch 11:30-11:50 a.m.,,31.3477587,-110.93947
+community,Nogales,Monte Carlo Park,"386 East Calle Sonora, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8-8:20 a.m.; Lunch 11:30-11:50 a.m.,,31.3669412,-110.9242
+community,Nogales,Mountain Points Apartments,"800 Baffert Drive, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8:25-8:30 a.m.; Lunch Noon-12:20 p.m.,,31.3692635,-110.9165
+community,Nogales,Boys & Girls Club,"590 North Tyler Avenue, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8:25-8:40 a.m.; Lunch Noon-12:30 p.m.,,31.3624658,-110.93365
+community,Nogales,Las Terrazas Apartment,"661 East Patagonia Highway, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8-8:20 a.m.; Lunch 11:30-11:50 a.m.,,31.355892,-110.91733
+community,Nogales,Salud Por Vida Community Center,"350 West Western Avenue, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8:25-8:30 a.m.; Lunch Noon-12:20 p.m.,,31.3496839,-110.93672
+community,Nogales,Villa Hermosa,"3208 N. Calle Villa Hermosa, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8-8:20 a.m.; Lunch 11:30-11:50 a.m.,,31.3624658,-110.93365
+community,Nogales,Community Food Bank,"2636 North Donna Avenue, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 9-9:15 a.m.; Lunch Noon-12:20 p.m.,,31.3803883,-110.93984
+community,Nogales,Lomas Mariposa Apartments,"1790 North Loma Mariposa, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8-8:20 a.m.; Lunch 11:30-11:50 a.m.,,31.3624658,-110.93365
+community,Nogales,Mariposa Manor,"945 West Manor Drive, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8:25-8:40 a.m.; Lunch Noon-12:30 p.m.,,31.359999,-110.95286
+community,Nogales,Nogales Public Library,"518 North Grand Avenue, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8:25-8:30 a.m.; Lunch Noon-12:20 p.m.,,31.3407334,-110.93604
+community,Nogales,Pete Kitchen Trailer,"Cochise Drive, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8:25-8:30 a.m.; Lunch Noon-12:20 p.m.,,31.3624658,-110.93365
+community,Nogales,"Rolling Hills, near Coronado Elementary","Al Harrison Road, Nogales",Nogales,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8-8:20 a.m.; Lunch 11:30-11:50 a.m.,,31.3624658,-110.93365
+school,Flowing Wells,Centennial Elementary,2200 West Wetmore Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 7:30-8:30 a.m.; Lunch noon-1 p.m.,,32.2884015,-111.01406
+school,Flowing Wells,Homer Davis Elementary,4250 North Romero Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 7:30-8:30 a.m.; Lunch noon-1 p.m.,,32.2843517,-111.0021
+school,Flowing Wells,Walter Douglas Elementary,3302 North Flowing Wells Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 7:30-8:30 a.m.; Lunch noon-1 p.m.,,32.2668604,-110.99435
+school,Flowing Wells,J. Roberts Hendricks Elementary,3400 West Orange Grove Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 7:30-8:30 a.m.; Lunch noon-1 p.m.,,32.3238351,-111.03865
+school,Flowing Wells,Laguna Elementary,5001 North Shannon,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 7:30-8:30 a.m.; Lunch noon-1 p.m.,,32.2983093,-111.02945
+school,Flowing Wells,Richardson Elementary,6901 North Camino De La Tierra,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 7:30-8:30 a.m.; Lunch noon-1 p.m.,,32.1569015,-110.87751
+school,Flowing Wells,Flowing Wells Junior High,4545 North La Cholla Boulevard,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 7:30-8:30 a.m.; Lunch noon-1 p.m.,,32.1569015,-110.87751
+school,Flowing Wells,Flowing Wells High School,3725 North Flowing Wells Road,Tucson,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 7:30-8:30 a.m.; Lunch noon-1 p.m.,,32.2739848,-110.99529
+school,Osborn School District,Encanto/Clarendon Elementary,1225 West Clarendon Ave,Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch 10:30 - 11:30 a.m.,6027072200,33.5721625,-112.08797
+school,Osborn School District,Solano Elementary ,1526 W Missouri Ave,Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch 10:30 - 11:30 a.m.,6027072600,33.5721625,-112.08797
+school,Osborn School District,Longview Elementary School,1209 East Indian School Road,Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch 10:30 - 11:30 a.m.,6027072700,33.4936528,-112.05515
+school,Osborn School District,Montecito Community School,715 East Montecito Avenue,Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch 10:30 - 11:30 a.m.,6027072000,33.4982802,-112.06378
+school,Osborn School District,Osborn Middle School,1102 West Highland Avenue,Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch 10:30 - 11:30 a.m.,6027072400,33.5075828,-112.08779
+school,Osborn School District,Budget Suites of America,611 West Indian School Road,Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch 10:30 - 11:30 a.m.,6022773400,33.4935048,-112.08183
+school,Osborn School District,Osborn School District,3102 North 18th Avenue,Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch 10:30 - 11:30 a.m.,,33.5721625,-112.08797
+school,Santa Cruz Valley,Calabasas School,"131 Camino Maricopa, Rio Rico",Rio Rico,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch,,31.4957016,-110.9886
+school,Santa Cruz Valley,Coatimundi Middle,"1412 West Frontage Road, Rio Rico",Rio Rico,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch,,31.5080058,-111.01523
+school,Santa Cruz Valley,Mountain View Elementary,"580 Camino Lito Galindo, Rio Rico",Rio Rico,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast/Lunch,,31.4957016,-110.9886
+school,Avondale,Collier Elementary,"350 S 118th Ave, Avondale",Avondale,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,"First pickup March 18, second pickup March 25",4pm-6pm. Go back of school by kitchen.,,33.4419365,-112.31292
+school,Avondale,Estrella Vista STEM Academy,"11905 W Cocopah St, Avondale",Avondale,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,"First pickup March 18, second pickup March 25",4pm-6pm. Pickup in front of school.,,33.4308749,-112.31377
+school,Avondale,Fine Arts Academy,"1700 S 103d Ave., Tolleson",Avondale,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,"First pickup March 18, second pickup March 25",4pm-6pm. Pickup in front of school.,,33.3882878,-112.32367
+school,Avondale,Littleton STEM Academy,"1252 S Avondale Blvd, Avondale",Avondale,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,"First pickup March 18, second pickup March 25",4pm-6pm. Pickup in front of school.,,33.4344435,-112.30862
+school,Avondale,Quentin STEM Academy,"11050 W Whyman Ave, Avondale",Avondale,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,"First pickup March 18, second pickup March 25",4pm-6pm. Pickup in front of school.,,33.4258711,-112.29844
+school,Avondale,Tres Rios Service Academy,"5025 S 103rd Ave, Tolleson",Avondale,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,"First pickup March 18, second pickup March 25",4pm-6pm. Pickup in front of school.,,33.3882878,-112.32367
+community,Phoenix,Andre House,"2831 N. 31st Ave, Phoenix",Phoenix,AZ,Emergency food boxes provided.,N/A,Proof of Address may be needed,N/A,See Hours of operation,See Hours of operation,,33.4790806,-112.12461
+school,Phoenix,Alhambra High School,"3839 West Camelback Road, Phoenix",Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,Breakfast 8am-9am; Lunch 11am-12pm,,33.5076244,-112.14069
+community,Glendale,La Piazza al forno,"5803 W. Glendale Ave., Glendale",Glendale ,AZ,free meal for kid who depend on school meal,N/A,No,No,See Hours of operation,See Hours of operation,623-847-3301,33.5383823,-112.18396
+community,Gilbert,Sal's Gilbert Pizza,"1150 S Gilbert Rd, Gilbert",Gilbert,AZ,kids will get to pick 1 kids meal no charge. Let them know when you come in.,N/A,No,No,T-F,10am-3pm,480-633-2226,33.3290595,-111.79083
+community,Mesa,Paz de Cristo,"424 W Broadway Rd, Mesa",Mesa,AZ,grab-and-go dinners,N/A,No,No,See Hours of operation,10AM-3PM. Dinner given out every night.,,33.4081229,-111.84096
+school,Phoenix,Arredondo Elementary,1330 E. Carson Dr.,Tempe 85282,AZ,grab-and-go breakfast and lunch,1to 18 yr old,Complete Survey https://forms.gle/Qjtirn69bmaNbgL3A,No,M-F,Breakfast 7:15am-8:45am; Lunch 11:30am-12:30pm ,,33.3882925,-111.93183
+school,Tempe,Connolly Middle School,2002 E. Concorda Dr.,Tempe 85282,AZ,grab-and-go breakfast and lunch,1to 18 yr old,Complete Survey https://forms.gle/Qjtirn69bmaNbgL3A,No,M-F,Breakfast 7:15am-8:45am; Lunch 11:30am-12:30pm ,,33.3882925,-111.93183
+school,Tempe,Frank Elementary,8409 S. Avenida del Yaqui,Guadalupe 85283,AZ,grab-and-go breakfast and lunch,1to 18 yr old,Complete Survey https://forms.gle/Qjtirn69bmaNbgL3A,No,M-F,Breakfast 7:15am-8:45am; Lunch 11:30am-12:30pm ,,33.3663622,-111.96306
+school,Tempe,Holdeman Elementary,1326 W. 18th St.,Tempe 85281,AZ,grab-and-go breakfast and lunch,1to 18 yr old,Complete Survey https://forms.gle/Qjtirn69bmaNbgL3A,No,M-F,Breakfast 7:15am-8:45am; Lunch 11:30am-12:30pm ,,33.4019259,-111.71738
+school,Tempe,Laird School,1500 N. Scovel St.,Tempe 85281,AZ,grab-and-go breakfast and lunch,1to 18 yr old,Complete Survey https://forms.gle/Qjtirn69bmaNbgL3A,No,M-F,Breakfast 7:15am-8:45am; Lunch 11:30am-12:30pm ,,33.3882925,-111.93183
+school,Tempe,Nevitt Elementary,4525 E. St. Anne Ave.,Phoenix 85042,AZ,grab-and-go breakfast and lunch,1to 18 yr old,Complete Survey https://forms.gle/Qjtirn69bmaNbgL3A,No,M-F,Breakfast 7:15am-8:45am; Lunch 11:30am-12:30pm ,,33.3882925,-111.93183
+school,Tempe,Scales Technology Academy,1115 W. 5th St.,Tempe 85281,AZ,grab-and-go breakfast and lunch,1to 18 yr old,Complete Survey https://forms.gle/Qjtirn69bmaNbgL3A,No,M-F,Breakfast 7:15am-8:45am; Lunch 11:30am-12:30pm ,,33.5721625,-112.08797
+school,Tempe,Thew Elementary,2130 E. Howe Ave.,Tempe 85281,AZ,grab-and-go breakfast and lunch,1to 18 yr old,Complete Survey https://forms.gle/Qjtirn69bmaNbgL3A,No,M-F,Breakfast 7:15am-8:45am; Lunch 11:30am-12:30pm ,,33.3882925,-111.93183
+school,Tempe,Wood Elementary,727 W. Cornell Dr.,Tempe 85283,AZ,grab-and-go breakfast and lunch,1to 18 yr old,Complete Survey https://forms.gle/Qjtirn69bmaNbgL3A,No,M-F,Breakfast 7:15am-8:45am; Lunch 11:30am-12:30pm ,,33.3882925,-111.93183
+school,Kyrene School District,Kyrene Family Resource Center (FRC),1330 E. Dava Dr.,Tempe,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,9:30 a.m.-1:30 p.m.,480 541-1660,33.3882925,-111.93183
+school,Kyrene School District,Kyrene de la Colina parking lot,13612 S. 36th Street,Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10:30 a.m.-12:30 p.m.,480 541-1660,33.3882925,-111.93183
+school,Kyrene School District,Pueblo Middle School parking lot,360 S. Twelve Oaks Boulevard,Chandler,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10:30 a.m.-12:30 p.m.,480 541-1660,33.5721625,-112.08797
+school,Kyrene School District,Pascua Yaqui Building,"Itom Hiapsi, 9405 S. Avenida Del Yaqui",Guadalupe,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,10:00 a.m.-12:30 p.m.,480 541-1660,33.2968979,-111.92799
+school,Kyrene School District,South Mountain Community Center,"212 E Alta Vista Rd,",Phoenix,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,12:15 p.m.-1:15 p.m.,480 541-1660,33.3663622,-111.96306
+school,Kyrene School District,"Gila River Reservation, Thwajik Ki Treatment Center",3850 N. 16th St,Chandler,AZ,grab-and-go breakfast and lunch,1to18 yr old,No,No,M-F,12:15 p.m.-1:15 p.m.,480 541-1660,33.3894991,-112.07064
+school,Santa Cruz,Coatimundi MS,"1412 W Frontage Rd, Rio Rico",Rio Rico,AZ,,1to18 yr old,,,,11am-1pm,,33.2828736,-111.85494
+school,Santa Cruz,Mountain View Elem,"580 Camino Lito Galindo, Rio Rico",Rio Rico,AZ,,1to18 yr old,,,,11am-1pm,,31.5080058,-111.01523
+school,Santa Cruz,Calabasas K-8,"131 Camino, Maricopa, Rio Rico",Rio Rico,AZ,,N/A,,,,11am-1pm,,31.4957016,-110.9886
+community,Benson,Benson Food Bank,"1120 W 4th St, Benson",Benson,AZ,Food Boxes,N/A,,,,All Day,,31.4957016,-110.9886
+community,Flagstaff,Flagstaff Family Food Center,"3805 E Huntington Dr, Flagstaff",Flagstaff,AZ,Meals,N/A,,,,All Day,,31.9154836,-110.3255
+school,Phoenix #1,Garfield School,"811 N 13th St, Phoenix",Phoenix,AZ,Breakfast/Lunch,1to18 yr old,,,,10am-1pm,,35.2138212,-111.59371
+school,Phoenix #1,Magnet Traditional,"2602 N 23rd Ave, Phoenix,",Phoenix,AZ,Breakfast/Lunch,N/A,,,,10am-1pm,,33.45773,-112.05321
+school,Phoenix,St. Mary's Food Bank,Thomas and 31st Ave,Phoenix,AZ,Food Boxes,N/A,,,,All Day,,33.5721625,-112.08797
+school,Scottsdale USD,Navajo Elementary,"7501 E. Oak St., Scottsdale",Scottsdale,AZ,Meals,1to 18yrs old ,No,No,M-F,9:30am-11am,,33.5721625,-112.08797
+school,Scottsdale USD,Tavan Elementary,"4610 E. Osborn Rd., Scottsdale",Scottsdale,AZ,Meals,1to 18yrs old ,No,No,M-F,9:30am-11am,,33.4720575,-111.91871
+school,Scottsdale USD,Yavapai Elementary,"701 N. Miller Rd., Scottsdale",Scottsdale,AZ,Meals,1to 18yrs old ,No,No,M-F,9:30am-11am,,33.6871976,-111.8651
+school,Scottsdale USD,Tonelea K-8,"6720 E. Continental Dr., Scottsdale",Scottsdale,AZ,Meals,1to 18yrs old ,No,No,M-F,9:30am-11am,,33.5050384,-111.91014
+school,Mesa SD,Adams Elementary School,"738 South Longmore, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4591621,-111.93725
+school,Mesa SD,Brinton Elementary,"11455 East Sunland Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3966105,-111.58268
+school,Mesa SD,Bush Elementary,"4925 East Ingram Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4470476,-111.72381
+school,Mesa SD,Crismon Elementary School,"825 West Medina Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3713151,-111.85232
+school,Mesa SD,Edison Elementary School,"545 North Horne, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Eisenhower Center for Innovation,"848 North Mesa Drive, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4311417,-111.82294
+school,Mesa SD,Emerson Elementary School,"415 North Westwood, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Entz Elementary School,"4132 East Adobe Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4302212,-111.74123
+school,Mesa SD,Falcon Hill Elementary School,"1645 North Sterling, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Field Elementary School,"2325 East Adobe Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4297548,-111.7817
+school,Mesa SD,Franklin East Elementary School,"	1753 East 8th Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3971329,-111.7958
+school,Mesa SD,Franklin West Elementary,"236 South Sirrine Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4092682,-111.82919
+school,Mesa SD,Franklin at Alma Elementary,"1313 West Medina Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3711142,-111.86203
+school,Mesa SD,Franklin at Brimhall Elementary,"4949 East Southern Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3935589,-111.72501
+school,Mesa SD,Guerrero Elementary School,"463 South Alma School Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4065418,-111.85641
+school,Mesa SD,Hale Elementary School,"1425 North 23rd Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4415778,-111.78149
+school,Mesa SD,Hermosa Vista Elementary School,"2626 North 24th Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4637822,-111.77947
+school,Mesa SD,Highland Elementary School,"3042 East Adobe Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4301827,-111.76543
+school,Mesa SD,Holmes Elementary School,"948 South Horne Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3979685,-111.81437
+,Mesa SD,Hughes Elementary School,"630 North Hunt Drive, Mesa",Mesa,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4268734,-111.79822
+school,Mesa SD,Irving Elementary School,"3220 East Pueblo Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4011204,-111.76055
+school,Mesa SD,Ishikawa Elementary School,"2635 North 32nd Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4638736,-111.76165
+school,Mesa SD,Jefferson Elementary School,"120 South Jefferson Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4122364,-111.67844
+school,Mesa SD,Johnson Elementary School,"3807 East Pueblo Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4007575,-111.74789
+school,Mesa SD,Keller Elementary School,"1445 East Hilton Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3883871,-111.7997
+school,Mesa SD,Kerr Elementary School,"125 East Mclellan Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4439745,-111.82815
+school,Mesa SD,Las Sendas Elementary School,"3120 North Red Mountain, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4731886,-111.67717
+school,Mesa SD,Lehi Elementary School,"2555 North Stapley Drive, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4620573,-111.8046
+school,Mesa SD,Lincoln Elementary School,"931 South Sirrine, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Lindbergh Elementary School,"930 South Lazona Drive, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3979292,-111.80181
+school,Mesa SD,Longfellow Elementary School,"345 South Hall, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Lowell Elementary School,"920 E Broadway Rd, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4080197,-111.81079
+school,Mesa SD,MacArthur Elementary School,"1435 East McLellan Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.444084,-111.79979
+school,Mesa SD,Madison Elementary School,"849 South Sunnyvale, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Mendoza Elementary School,"5831 East McLellan Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4445401,-111.70535
+school,Mesa SD,O'Connor Elementary School,"4840 East Adobe Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4302634,-111.72643
+school,Mesa SD,Patterson Elementary,"615 South Cheshire, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Pomeroy Elementary School,"1507 West Shawnee Drive, Chandler",Chandler,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3432936,-111.8677
+school,Mesa SD,Porter Elementary School,"1350 South Lindsay Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3908872,-111.77153
+school,Mesa SD,Red Mountain Ranch Elementary,"6650 East Raftriver Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4823572,-111.68713
+school,Mesa SD,Redbird Elementary School,"1020 South Extension Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3962737,-111.84889
+school,Mesa SD,Robson Elementary School,"2122 East Pueblo Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4010496,-111.78503
+school,Mesa SD,Roosevelt Elementary School,"828 South Valencia, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Salk Elementary School,"7029 East Brown Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4367361,-111.67941
+school,Mesa SD,Sirrine Elementary School,"591 West Mesquite Street, Chandler",Chandler,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3420896,-111.84934
+school,Mesa SD,Sousa Elementary School,"616 North Mountain Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4272686,-111.59045
+school,Mesa SD,Stevenson Elementary School,"638 South 96th Street, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4031366,-111.62527
+school,Mesa SD,Summit Academy,"1560 West Summit Place, Chandler",Chandler,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3552813,-111.87024
+school,Mesa SD,Taft Elementary School,"9800 East Quarterline Road, Mesa",Mesa,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4270746,-111.61964
+school,Mesa SD,Washington Elementary School,"2260 West Isabella Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3837665,-111.88006
+school,Mesa SD,Webster Elementary School,"202 North Sycamore, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Whitman Elementary School,"1829 North Grand, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4019259,-111.71738
+school,Mesa SD,Whittier Elementary School,"733 North Longmore Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.4286164,-111.86503
+school,Mesa SD,Wilson Elementary School,"5619 East Glade Avenue, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.3915363,-111.71041
+school,Mesa SD,Zaharis Elementary,"9410 East McKellips Road, Mesa",Mesa ,AZ,grab-and-go breakfast and lunch,1to 18yrs old ,No,No,M-F,11am-1pm,,33.451607,-111.62682
+school,Gilbert PS,Harris Elementary,"1820 S Harris Dr, Gilbert",Gilbert,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,AM/PM,,33.3102088,-111.74219
+school,Gilbert PS,Mesquite Junior High,"130 W Mesquite St, Gilbert",Gilbert,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,AM/PM,,33.3454453,-111.79461
+school,Gilbert PS,Highland Junior High,"6915 E Guadalupe Rd, Gilbert",Gilbert,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,AM/PM,,33.3102088,-111.74219
+school,Gilbert PS,Meridian Elementary,"3900 S Mountain Rd, Gilbert",Gilbert,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,AM/PM,,33.3102088,-111.74219
+school,Gilbert PS,Greenfield Junior High,"101 S Greenfield Rd, Gilbert",Gilbert,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,AM/PM,,33.3489503,-111.736
+school,Gilbert PS,South Valley Junior,"2034 S Lindsay Rd, Gilbert",Gilbert,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,AM/PM,,33.3126904,-111.77601
+school,MEsa,Streets of Joy,451 E 4th Pl,Mesa,AZ,Meals,1to 18yrs old ,No,No,M-F,Afternoons,,33.4237351,-111.82134
+school,Madison,Madison Camelview,"2002 E Campbell Ave, Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,7:30-12,,33.5721625,-112.08797
+school,Roosevelt,Bernard Black,"6550 S 27th Ave., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.5721625,-112.08797
+school,Roosevelt,CJ Jorgensen,"1701 W Roeser Rd, Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3980786,-112.09564
+school,Roosevelt,CO Greenfield,"7009 S 10th St., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.5721625,-112.08797
+school,Roosevelt,Chavez Leadership,"4001 S 3rd St., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.410923,-112.06818
+school,Roosevelt,Cloves C. Cambell,"2624 E South Mountain  Ave., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3717987,-112.02595
+school,Roosevelt,Pastor,"2101 W Alta Vista Rd., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3872987,-112.10436
+school,Roosevelt,Conchos,"1718 W Vineyard Rd., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3860108,-112.09604
+school,Roosevelt,Lopez,"4610 S 12th St., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.5721625,-112.08797
+school,Roosevelt,Davis,"6209 S 15th Ave., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3897508,-112.0891
+school,Roosevelt,Bush,"602 E Siesta Dr., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3658759,-112.06774
+school,Roosevelt,Julian,"2149 East Carver Dr, Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.4027071,-112.03504
+school,Roosevelt,Southwest,"1111 W Dobbins Rd., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3622259,-112.0884
+school,Roosevelt,Sunland,"5401 S 7th Ave., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.5721625,-112.08797
+school,Roosevelt,T.G. Barr,"2041 E Vineyard Rd , Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3854613,-112.03653
+school,Roosevelt,V.H. Lassen,"909 W Vineyard Rd., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3840136,-112.0852
+school,Roosevelt,Valley View Leadership Academy,"8220 S 7th Ave., Phoenix",Phoenix,AZ,Breakfast/Lunch,1to 18yrs old ,No,No,M-F,11-12,,33.3713736,-112.08438
+school,Tolleson SD,San Lucas Apartments,"8701 W Van Buren St, Tolleson",Tolleson,AZ,Meals,1to 18yrs old ,No,No,M-F,11-1,,33.4497759,-112.24811
+school,Tolleson SD,Sundancer Apartments,"400 N 96th Ave, Tolleson",Tolleson,AZ,Meals,1to 18yrs old ,No,No,M-F,11-1,,33.4518449,-112.26649
+school,Tolleson SD,Tolleson Garden Apartments,"900 N 95th Ave #120, Tolleson",Tolleson,AZ,Meals,1to 18yrs old ,No,No,M-F,11-1,,33.4563045,-112.26428
+school,Tolleson SD,Red Hawk Apartments,"9330 W McDowell Rd, Phoenix",Phoenix,AZ,Meals,1to 18yrs old ,No,No,M-F,11-1,,33.5721625,-112.08797
+school,Tolleson SD,Del Mar Apartments,"8550 W McDowell Rd, Phoenix",Phoenix,AZ,Meals,1to 18yrs old ,No,No,M-F,11-1,,33.4664561,-111.89834
+school,Tolleson SD,Arizona Desert Elementary,"8803 W Van Buren St, Tolleson",Tolleson,AZ,Meals,1to 18yrs old ,No,No,M-F,11-1,,33.4495748,-112.2515
+school,Tolleson SD,Desert Oasis Elementary,"17161 W Bajada Rd, Surprise",Tolleson,AZ,Meals,1to 18yrs old ,No,No,M-F,11-1,,33.4482836,-112.25579
+school,Tolleson SD,Gonzales Elementary,"9401 W Garfield St, Tolleson",Tolleson,AZ,Meals,1to 18yrs old ,No,No,M-F,11-1,,33.4559976,-112.26177
+school,Tolleson SD,Sheely Farms,"9450 W Encanto Blvd, Phoenix",Phoenix,AZ,Meals,1to 18yrs old ,No,No,M-F,11-1,,33.4737312,-112.26357
+school,Chandler Unified,Chandler High,"350 N Arizona Ave, Chandler",Chandler,AZ,Meals,1to 18yrs old ,No,No,M-F,9:30-12:30,,33.3089071,-111.84284
+school,Chandler Unified,Hamilton High,"3700 S Arizona Ave, Chandler",Chandler,AZ,Meals,1to 18yrs old ,No,No,M-F,9:30-12:30,,33.2828736,-111.85494
+school,Balsz,Tillman Middle School,"4309 E Belleview St., Phoenix",Phoenix,AZ,Breakfast,1to 18yrs old ,No,No,M-F,7-8,,33.4611215,-111.98961
+school,Laveen SD,Laveen Elementary,"4141 W McNeil St, Laveen Village",Laveen,AZ,Meals,1to 18yrs old ,No,No,M-F,7:30-9:30 & 11-1,,33.356619,-112.1500149
+school,Laveen SD,Cash Elementary,"3851 W Roeser Rd, Phoenix",Phoenix,AZ,Meals,1to 18yrs old ,No,No,M-F,7:30-9:30 & 11-1,,33.3994009,-112.14059
+school,Laveen SD,Chetham Elementary,"4725 W South Mountain Ave, Laveen Village",Laveen,AZ,Meals,1to 18yrs old ,No,No,M-F,7:30-9:30 & 11-1,,33.3688981,-112.159669
+school,Laveen SD,Trailside Point,"7275 W Vineyard Rd, Laveen Village",Laveen,AZ,Meals,1to 18yrs old ,No,No,M-F,7:30-9:30 & 11-1,,33.5721625,-112.0879662
+school,Laveen SD,Desert Meadows,"6855 W Meadows Loop E, Laveen Village",Laveen,AZ,Meals,1to 18yrs old ,No,No,M-F,7:30-9:30 & 11-1,,33.38549617,-112.1604282
+school,Laveen SD,Rogers Ranch,"6735 S 47th Ave, Laveen Village",Laveen,AZ,Meals,1to 18yrs old ,No,No,M-F,7:30-9:30 & 11-1,,33.36522154,33.36522154
+school,Laveen SD,Paseo Pointe,"8800 S. 55th Ave. Laveen,",Laveen,AZ,Meals,1to 18yrs old ,No,No,M-F,7:30-9:30 & 11-1,,33.366643,-112.17858
+school,Peoria USD,Canyon Elementary,"5490 W Paradise Ln, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Centennial High,"14388 N 79th Ave, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Cheyenne Elementary,"11806 N 87th Ave, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Copperwood Elementary,"11232 N 65th Ave, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Cotton Boll Elementary,"8540 W Butler Dr, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Country Meadows Elementary,"8409 N 111th Ave, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,District Center,"6330 W Thunderbird Rd, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Desert Harbor,"15585 N 91st Ave, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.6253842,-112.25249
+school,Peoria USD,Desert Palms,"11441 N 55th Ave, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Desert Valley,"12901 N 63rd Ave, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Foothills,"15808 N 63rd Ave, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Heritage,"5312 W Mountain View Rd, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Murphy,"7231 W North Ln, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.5796944,-112.21443
+school,Peoria USD,Kachina,"5304 W Crocus Dr, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Marshall Ranch Elementary,"12995 N Marshall Ranch Dr, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Oasis Elementary,"7841 W Sweetwater Ave, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.6014982,-112.22669
+school,Peoria USD,Peoria Elementary,"11501 N 79th Ave, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.5893676,-112.22982
+school,Peoria USD,Peoria High School,"11200 N 83rd Ave, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.5872916,-112.23892
+school,Peoria USD,Pioneer Elementary,"6315 W Port au Prince Ln, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Kellis high,"8990 W Orangewood Ave, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Sahuaro Ranch Elementary,"10401 N 63rd Ave, Glendale",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Sky View Elementary,8624 W Sweetwater Ave,Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.6035846,-112.24451
+school,Peoria USD,Sun Valley Elementary,"8361 N 95th Ave, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.7824037,-112.29768
+school,Peoria USD,Sundance Elementary,"7051 W Cholla St, Peoria",Peoria,AZ,Meals,1to 18yrs old ,No,No,M-F,10:30-12,,33.5876151,-112.21017
+school,Phoenix,Harvest Compassion Center,"4002 N. 67th Ave., Phoenix",Phoenix,AZ,Groceries,All ,No,No,M-F,9:30-11:29,,33.4928448,-112.20412
+school,Phoenix,Harvest Compassion Center,"4744 E. Thunderbird Road, Ste. 9, Phoenix",Phoenix,AZ,Groceries,1to 18yrs old ,No,No,M-F,9:30-11:30,,33.6124919,-111.97875
+school,Phoenix,Friendly House,"113 W Sherman St., Phoenix",Phoenix,AZ,Produce/Canned,1to 18yrs old ,No,No,M-F,1-4,,33.4399271,-112.07589
+school,Humboldt SD,Lake Valley Elementary,3900 N Starlight Drive,Prescott Valley,AZ,Meals,1to 18yrs old ,No,No,M-F,11:30-1,,34.5976993,-112.35192
+school,Humboldt SD,Coyote Springs,6625 N Cattletrack Drive,Prescott Valley,AZ,Meals,1to 18yrs old ,No,No,M-F,11:30-1,,34.6378281,-112.32318
+school,Humboldt SD,Humboldt Elementary,2750 S Corral St,Humboldt,AZ,Meals,1to 18yrs old ,No,No,M-F,11:30-1,,34.5174379,-112.24977
+school,Humboldt SD,Mountain View Elem,8601 E Loos Drive,Prescott Valley,AZ,Meals,1to 18yrs old ,No,No,M-F,11:30-1,,34.6034323,-112.31364
+school,Cartwright ,Peralta,"7125 W. Encanto Blvd., Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.5721625,-112.08797
+school,Cartwright ,Palm Lane ,"2043 N. 64th Drive, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.4706641,-112.19651
+school,Cartwright ,Estrella,"3733 N. 75th Avenue, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.4905986,-112.21838
+school,Cartwright ,Starlight,"7960 W. Osborn Rd., Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.5721625,-112.08797
+school,Cartwright ,Tomahawk,"7820 W. Turney Avenue, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.4998209,-112.22745
+school,Cartwright ,Sunset ,"6602 W. Osborn Rd., Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.4886402,-112.20135
+school,Cartwright ,Desert Sands,"6308 W. Campbell Rd., Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.5036851,-112.19644
+school,Cartwright ,Heatherbrae,"7070 W. Heatherbrae Drive, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.5000083,-112.21084
+school,Cartwright ,Long,"4407 N. 55th Avenue, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.5013006,-112.1761
+school,Cartwright ,Borman,"3637 N. 55th Avenue, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.5721625,-112.08797
+school,Cartwright ,Carthwright,"2825 N. 59th Avenue, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.4788904,-112.18508
+school,Cartwright ,Harris,"2252 N. 55th Avenue, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.4718259,-112.17894
+school,Cartwright ,Downs,"3600 N. 47th Avenue, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9am-11am,,33.5721625,-112.08797
+community ,Cartwright ,Bus Stop,50th Lane and W. Cambridge Ave,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9:00 AM,,33.5721625,-112.08797
+community ,Cartwright ,Bus Stop,Virginia Ave and 47th Ave,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9:00 AM,,33.5721625,-112.08797
+community ,Cartwright ,Bus Stop,46th Ave and Cambridge Ave,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9:20 AM,,33.5721625,-112.08797
+community ,Cartwright ,Bus Stop,Marble Creek/Lynnwood,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9:00 AM,,33.5721625,-112.08797
+community ,Cartwright ,Bus Stop,The Villas,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9:00 AM,,33.5721625,-112.08797
+community ,Cartwright ,Bus Stop,Siegle Suites,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9:30 AM,,33.5721625,-112.08797
+community ,Cartwright ,Bus Stop,West End Gate at Clarendon & 71st Ave at Del Mar Apts,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9:00 AM,,33.5721625,-112.08797
+community ,Cartwright ,Bus Stop,Casa Anita,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9:00 AM,,33.5721625,-112.08797
+community ,Cartwright ,Bus Stop,72nd Ave. and Wolf,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,9:30 AM,,33.5721625,-112.08797
+school,Isaac SD,Bus Stop,36TH AVE BTW POLK & TAYLOR,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,38TH AVE & FILLMORE,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,Capri Mobile Home Park,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,42ND AVE & LATHAM,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,43rd Ave. & Culver,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,Willetta BTW 38th Ave & 37th Dr.,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,LYNWOOD ST. BTW 37TH AVE & 36TH DR.,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,35TH AVE & ROANOKE,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,34TH DR. & CAMBRIDGE,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,30TH AVE BTW HOLLY ST & PALM LN,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,29TH AVE BTW GRANADA & CORONADO,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,PALM LN BTW 38TH DR & 38TH LN.,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,44TH AVE & VIRGINIA,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,45TH AVE & EDGEMONT,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,North 46th Avenue & West Sheridan Street,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,West Holly Street & North 47th Avenue,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,West Sheridan Street & North 49th Avenue,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,West Hubbell Street & North 45th Avenue,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,McDowell Rd & 47th Ave,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,North 48th Avenue & West Granada Road,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,48TH LN BTW GRANADA & BERKELEY,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,50TH LN BTW BERKELEY & GRANADA,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,50TH AVE & HOLLY ST,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,34TH AVE BTW PALM LN & HOLLY ST.,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,34TH AVE BTW MONTE VISTA& CYPRESS,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,32ND AVE BTW MONTE VISTA & HOLLY,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,32ND AVE BTW ALVARADO& CYPRESS,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+community ,Isaac SD,Bus Stop,POLK BTW 27TH DR. & 28TH,Phoenix,AZ,grab-and-go meals,1to18 yr old,No,No,M-F,check school website,,33.5721625,-112.08797
+school,Isaac SD,Heart of Isaac Community Center,"1403 N 32nd Ave, Phoenix",Phoenix,AZ,grab-and-go meals,1to18 yr old ,No,No,M-F,Breakfast 8am-9am; Lunch 11:30am-1pm,,33.4642784,-112.12681
+community ,Phoenix,La Piazza del Forno,"1 N. First Street, Phoenix",Phoenix,AZ,free meals for kids who depend on school meals,1to18 yr old ,No,No,See Hours of Operation,See Hours of Operation,,33.448588,-112.072
+school,Creighton,Biltmore Prep,"4601 N. 34th Street, Phoenix",Phoenix,AZ,"grab-and-go meal for kids, Adult meals can be purchased for $1 for breakfast and $2 for lunch.",All ,No,No,M-F,8:30am-11:30am,,33.5053482,-112.00967
+school,Creighton,Creighton School ,"2802 E. McDowell Road, Phoenix",Phoenix,AZ,"grab-and-go meal for kids, Adult meals can be purchased for $1 for breakfast and $2 for lunch.",All ,No,No,M-F,8:30am-11:30am,,33.4674644,-112.02048
+school,Creighton,Excelencia ,"2181 East McDowell Road, Phoenix",Phoenix,AZ,"grab-and-go meal for kids, Adult meals can be purchased for $1 for breakfast and $2 for lunch.",All ,No,No,M-F,8:30am-11:30am,,33.4642589,-112.03524
+school,Creighton,Gateway,"1100 N 35th St, Phoenix",Phoenix,AZ,"grab-and-go meal for kids, Adult meals can be purchased for $1 for breakfast and $2 for lunch.",All ,No,No,M-F,8:30am-11:30am,,33.4614695,-112.00705
+school,Creighton,LC Kennedy ,"2702 E. Osborn, Phoenix",Phoenix,AZ,"grab-and-go meal for kids, Adult meals can be purchased for $1 for breakfast and $2 for lunch.",All ,No,No,M-F,8:30am-11:30am,,33.5721625,-112.08797
+school,Creighton,Loma Linda Monte Vista ,"2002 E. Clarendon Avenue, Phoenix",Phoenix,AZ,"grab-and-go meal for kids, Adult meals can be purchased for $1 for breakfast and $2 for lunch.",All ,No,No,M-F,8:30am-11:30am,,33.4920667,-112.03726
+school,Creighton,Papago ,"2013 North 36th Street, Phoenix",Phoenix,AZ,"grab-and-go meal for kids, Adult meals can be purchased for $1 for breakfast and $2 for lunch.",All ,No,No,M-F,8:30am-11:30am,,33.4702677,-112.00363
+school,Creighton,WT Machan,"2140 E. Virginia Ave., Phoenix",Phoenix,AZ,"grab-and-go meal for kids, Adult meals can be purchased for $1 for breakfast and $2 for lunch.",All ,No,No,M-F,8:30am-11:30am,,33.4779777,-112.03536
